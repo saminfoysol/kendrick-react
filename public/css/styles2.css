@@ -1,0 +1,23 @@
+#bg {
+	height:100vh;
+	/*GKMC*/
+	background-image: -webkit-linear-gradient(top, #43C6AC, #191654); /* For Chrome and Safari */
+	/*background-image:    -moz-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Fx (3.6 to 15) */
+	/*background-image:     -ms-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For pre-releases of IE 10*/
+	/*background-image:      -o-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Opera (11.1 to 12.0) */
+	/*background-image:         linear-gradient(to bottom, #29587a, #63a3c4, #282836, #526e65); /* Standard syntax; must be last */
+
+	/*TPAB*/
+	/*background-image: -webkit-linear-gradient(top, #eef2f3,#8e9eab); /* For Chrome and Safari */
+	/*background-image:    -moz-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Fx (3.6 to 15) */
+	/*background-image:     -ms-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For pre-releases of IE 10*/
+	/*background-image:      -o-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Opera (11.1 to 12.0) */
+	/*background-image:         linear-gradient(to bottom, #29587a, #63a3c4, #282836, #526e65); /* Standard syntax; must be last */
+
+	/*DAMN*/
+	/*background-image: -webkit-linear-gradient(top, #EB5757,#000000); /* For Chrome and Safari */
+	/*background-image:    -moz-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Fx (3.6 to 15) */
+	/*background-image:     -ms-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For pre-releases of IE 10*/
+	/*background-image:      -o-linear-gradient(top, #29587a, #63a3c4, #282836, #526e65); /* For old Opera (11.1 to 12.0) */
+	/*background-image:         linear-gradient(to bottom, #29587a, #63a3c4, #282836, #526e65); /* Standard syntax; must be last */
+}

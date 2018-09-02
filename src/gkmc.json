@@ -1,0 +1,1179 @@
+[
+	{
+		"title":"Sherane a.k.a. Master Splinter's Daughter",
+		"features":[],
+		"album":"gkmc",
+		"lyric_id":1,
+
+		"lyrics":[
+			{
+				"lyric_id":0,
+				"type":"production",
+				"content":["[Produced by Tha Bizness]"],
+				"annotation":["Kendrick’s album opens up with a very dark, eerie and ambient sounding track full of synths and effects that sound fit for a movie score. The sounds on the production are original with a concept that starts Kendrick’s short film."],
+				"attachment_type":"youtube",
+				"attachment":"https://www.youtube.com/watch?v=jp2JKd909E8",
+				"literary":"none",
+				"sample":"none"
+			},
+			{
+				"lyric_id":1,
+				"type":"intro",
+				"content":[
+					"Lord God, I come to you a sinner",
+					"And I humbly repent for my sins","I believe that Jesus is Lord",
+					"I believe that you raised him from the dead",
+					"I will ask that Jesus will come to my life",
+					"And be my Lord and Savior",
+					"I receive Jesus to take control of my life",
+					"And that I may live for him from this day forth",
+					"Thank you, Lord Jesus, for saving me with your precious blood",
+					"In Jesus' name, Amen"
+				],
+				"annotation":[
+					"The sinner’s prayer is a verbal petition unto God that people use to repent of one’s sins and receive Jesus Christ as their personal Lord and Savior.",
+					"This same prayer is repeated by Maya Angelou and, presumably, two gang members at the end of the album on his track “Sing About Me, I’m Dying of Thirst”. It also dictates the tone of the album. It shows the upbringing of the character that we see facing the aspects of this life."
+				],
+				"learn_more":[
+					{
+						"name":"Sinner's prayer",
+						"type":"link",
+						"link":"https://www.gotquestions.org/sinners-prayer.html"
+					},
+					{
+						"name":"Maya Angelou",
+						"type":"link",
+						"link":"https://genius.com/artists/Maya-angelou"
+					},
+					{
+						"name":"Sing About Me, I'm Dying of Thirst",
+						"type":"song",
+						"state":"samin come back here"
+					}
+				],
+				"literary":[["foreshadowing",-1],["allusion",-1],["epigraph",-1]],
+				"sample":"none"
+			},
+			{
+				"lyric_id":2,
+				"type":"content",
+				"content":[
+					"I met her at this house party on El Segundo and Central",
+					"She had the credentials of strippers in Atlanta"
+				],
+				"annotation":[
+					"El Segundo Blvd and Central Ave is a major intersection in Compton. This intersection is also very close to Centennial High School, where Kendrick went to high school.",
+					"Sherane reminds Kendrick of voluptous strippers from Atlanta, Georgia. Strip clubs such as Onyx and Magic City are some of the most popular in the country.",
+					"Could also be a reference to the 1990 movie, House Party starring hip-hop duo Kid ‘n Play that featured a love interest named Sharane that both of the main characters were interested in. Kendrick acknowledges he was a fan of the movie."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"El Segundo Blvd and Central Ave",
+						"type":"link",
+						"link":"https://www.google.com/maps/place/N+Central+Ave+%26+El+Segundo+Blvd,+Compton,+CA+90222/@33.9163703,-118.2565579,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2ca4c9e960d33:0x2be33a5ad3514307!8m2!3d33.9163703!4d-118.2543692"
+					},
+					{
+						"name":"House Party",
+						"type":"link",
+						"link":"https://www.imdb.com/title/tt0099800/"
+					},
+					{
+						"name":"Kids n Play",
+						"type":"link",
+						"link":"https://genius.com/artists/Kid-n-play"
+					}
+
+				],
+
+				"literary":"none",
+				"sample":"none"
+			},
+			{
+				"lyric_id":3,
+				"type":"content",
+				"content":[
+					"Ass came with a hump, from the jump she was a camel",
+					"I want to ride like Arabians, push an '04 Mercedes-Benz"
+				],
+				"annotation":[
+					"Kendrick compares Sherane’s backside to the hump on a camel’s back, and he wants to ride it the same way a person would ride a camel.",
+					"Arabian (Dromedary) camels have only one hump and are used in the desert to go long distances for long periods of time. This desert imagery ties in well with the end of the second verse.",
+					"This could tie into the prior line about riding like Arabians, who, at least in oil-rich Saudia Arabia, are usually seen in luxury sedans.",
+					"Take also note that the use of the ‘04 Benz relates to the year this story takes place in, to when the car would have been brand new."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Dromedary Camel",
+						"type":"link",
+						"link":"https://www.nationalgeographic.com/animals/mammals/a/arabian-camel/"
+					}
+				],
+
+				"literary":[
+					["metaphor",0],
+					["simile",1]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":4,
+				"type":"content",
+				"content":[
+					"'Hello, my name is Kendrick,'' she said 'No, you're handsome.'",
+					"Whispered in my ear, disappeared, then found her dancin'"
+				],
+				"annotation":[
+					"He introduces himself to Sherane and he also introduces himself to the listeners.",
+					"Sherane responds to Kendrick’s introduction by flirting with him and then walking away – playing “hard to get”. ",
+					"This line relates back to the stripper reference earlier in the verse, since strippers typically flirt with men, flatter them, and then walk away to dance on stage."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[],
+				"literary":[],
+				"sample":"none"
+			},
+			{
+				"lyric_id":5,
+				"type":"kendrick-content",
+				"content":[
+					"Ciara had played in the background"
+				],
+				"annotation":[
+					"If I’m not mistaken it would be 1, 2 Step. Everybody one, two step – yup, definitely."
+				],
+				"attachment_type":"soundcloud",
+				"attachment":"https://soundcloud.com/rapgenius/kendrick-on-ciara-had-played",
+				"learn_more":[
+
+				],
+
+				"literary":[
+				],
+				"sample":"none"
+			
+			},
+			{
+				"lyric_id":6,
+				"type":"kendrick-content",
+				"content":[
+					"The parade music we made had us all wearin' shades now"
+				],
+				"annotation":[
+					"It is just basically talking about just the vibe and the atmosphere, more the party vibe. When I say ‘parade’ I am talking about the actual party and everybody having a good time, and making this feel like we have grown. We are feeling like we are adults, but really we don’t know shit. We are just faking it and living carefree."
+				],
+				"attachment_type":"soundcloud",
+				"attachment":"https://soundcloud.com/rapgenius/kendrick-sherane-parade",
+				"learn_more":[
+
+				],
+
+				"literary":[
+					["metaphor",-1]
+				],
+				"sample":"none"
+			
+			},
+			{
+				"lyric_id":7,
+				"type":"content",
+				"content":[
+					"'Cool, where you stay?'",
+					"She said: 'Down the street from Dominguez High'"
+				],
+				"annotation":[
+					"Compton is home to a school zone known as the Compton Unified School District, it serves 3 high schools, 8 middle schools and 21 elementary schools.",
+					"Dominguez High is one of these high schools. It has produced 3 current NBA players including Tyson Chandler, an NFL player in Seahawks cornerback Richard Sherman, as well as MC Ren (of N.W.A fame)."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Dominguez High",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Manuel_Dominguez_High_School"
+					},
+					{
+						"name":"Tyson Chandler",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Tyson_Chandler"
+					},
+					{
+						"name":"Richard Sherman",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Richard_Sherman_%28American_football"
+					},
+					{
+						"name":"N.W.A",
+						"type":"link",
+						"link":"https://genius.com/artists/Nwa"
+					}
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			
+			},
+			{
+				"lyric_id":8,
+				"type":"content",
+				"content":[
+					"Okay, I know that's borderline Compton or Paramount",
+					"'Well, is it Compton?'' – 'No,' she replied",
+					"And quickly start battin' her eyes"
+				],
+				"annotation":[
+					"Dominiguez High is indeed located in Compton, CA. Paramount borders east of Compton."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			
+			},
+
+			{
+				"lyric_id":9,
+				"type":"content",
+				"content":[
+					"And strictly had wanted her thighs around me"
+				],
+				"annotation":[
+					"Kendrick’s mind is focused completely on sex with Sherane. This part of the song acts as foreshadowing for later events."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			
+			},
+
+			{
+				"lyric_id":10,
+				"type":"content",
+				"content":[
+					"Seventeen, with nothin' but pussy stuck on my mental",
+					"My motive was rather sinful"
+				],
+				"annotation":[
+					"Like most young men, Kendrick found himself completely consumed by the lust for sexual interaction. He clearly had his fair share of some fucking problems. Citing religious influence, Kendrick acknowledges that raw lust to have been sinful."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Fuckin Problems",
+						"type":"link",
+						"link":"https://genius.com/A-ap-rocky-fuckin-problems-lyrics"
+					},
+					{
+						"name":"1 Corinthians 6",
+						"type":"link",
+						"link":"https://genius.com/Holy-bible-kjv-1-corinthians-6-annotated"
+					}
+				],
+
+				"literary":[
+					["metaphor",1]
+				],
+				"sample":"none"
+			
+			},
+			{
+				"lyric_id":11,
+				"type":"content",
+				"content":[
+					"'What you tryin' to get into?'"
+				],
+				"annotation":[
+					"This is Kendrick’s roundabout way of asking Sherane: #Can I hit it?"],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":12,
+				"type":"content",
+				"content":[
+					"She didn't tell, just gave me her Nextel",
+					"Dropped the number, we chirped the whole summer, and well"
+				],
+				"annotation":[
+					"Nextel’s were popular in 2004 (the time this song presumably takes place in – Kendrick is 25 in 2012 and says that he’s 17 in the song)",
+					"Nextel phones were known for “push-to-talk”, a feature that turned the cell phone into a kind of walkie-talkie. Their distinctive ringtone was often called a “chirp”",
+					"This is the same idea that Kendrick alludes to in “The Art of Peer Pressure” when they talk about pulling out their “Boost Mobile Sim Cards”"
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					["zoomorphism",1]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":13,
+				"type":"header",
+				"content":[
+					"Verse 2"
+				],
+				"annotation":[
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+
+			{
+				"lyric_id":14,
+				"type":"content",
+				"content":[
+					"The summer had passed, and now I'm likin' her"
+				],
+				"annotation":[
+					"The summer is over, and Kendrick’s feelings for Sherane have maintained – this wasn’t just an average summer fling. He is beginning to actually like her beyond the lust he felt when he was in that young summer daze and wants to form a real relationship."],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":15,
+				"type":"content",
+				"content":[
+					"Conversation we havin' probably enticin' her",
+					"Who could imagine? Maybe my actions will end up wifin' her"
+				],
+				"annotation":[
+					"Kendrick isn’t just getting physically close to Sherane, but they’re talking a lot and it has him contemplating their future together."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":16,
+				"type":"content",
+				"content":[
+					"Love or lust, regardless we'll fuck, 'cause the trife in us",
+					"It's deep-rooted, the music of bein' young and dumb",
+					"Is never muted; in fact, it's much louder where I'm from"
+				],
+				"annotation":[
+					"Whether or not he actually loves Sherane, won’t change the fact that he’ll hit it. It’s a reality of their lives and conditions:",
+					"Gangsta Rap has long been associated with black youth in America (specifically Compton, Kendrick’s city) as it pertains to crime and violence. Such behavior is commonly coined as being ‘young and dumb’.",
+					"“Music” here also refers to the general feeling of being young and frivolous. While teenagers all over the world make immature decisions, Kendrick thinks that it’s even more pronounced in his area (like the music is louder and more aggressive)"
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Compton",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Compton,_California"
+					}
+				],
+
+				"literary":[
+					["idiom",0],
+					["euphemism",1],
+					["euphemism",2]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":17,
+				"type":"content",
+				"content":[
+					"We know a lot 'bout each other, her mother was a crack addict",
+					"She live with her granny and her younger two brothers"
+				],
+				"annotation":[
+					"Sherane doesn’t have the greatest home life. Kendrick has learned this presumably over many Nextel conversations, which he has endured in the pursuit of sex.",
+					"The fact that Sherane’s mother is referred to in past tense likely means she succumbed to the habit. This is another instance of Kendrick conversing with a female crack baby, possibly of the #Section.80 generation, which Kendrick has termed to describe the youth produced in the late 1980s.",
+					"Now that Sherane’s mother is dead (as if she ‘was’ a crack addict, this suggest she no longer is one; this could mean she got help but if that was the case Sherane would be living with her), she lives with her grandmother and two younger brothers.",
+					"This is interesting as subtly tells us a side story of Sherane’s family; their mother and father are out of the picture and they have a prominent family history of gang-banging. These influences lead Sherane’s two younger brothers to join the gang life with their cousin, and this realization makes Kendrick freeze at the final line."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"A.D.H.D.",
+						"type":"link",
+						"link":"https://genius.com/Kendrick-lamar-adhd-lyrics?referent_id=267456#note-267456"
+
+					}
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":18,
+				"type":"content",
+				"content":[
+					"Her favorite cousin Demetrius's irrepetible",
+					"Family history of gang bangin' did make me skeptical"
+				],
+				"annotation":[
+					"Sherane has a cousin that’s a known gang banger, but he is so focused on sex that he ignores it. Irrepetible (mispronounced) is Spanish for unrepeatable. Meaning Demetrius’s history of gang banging is so infamous it’s not spoken of. It takes a bilingual listener to hear “ear-reh-peh-tee-blay” in “ear-rept-able.”",
+					"It also sounds as if Kendrick calls Sherane’s cousin Demetrius ‘a reputable’. This means that Demetrius is a well-known gangbanger/ member who has gained respect in the streets by putting in work. All of these factors did make him skeptical, and messing with Sherane can get him stomped out, beaten up or even killed.",
+					"This line is another example of the heavy foreshadowing going on in this song – Sherane’s gang ties come into play at the end of the track. Kendrick often manipulates his words sonically"	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":19,
+				"type":"content",
+				"content":[
+					"But not enough to stop me from gettin' a nut",
+					"I wanna come over, what's up?",
+					"That's what I told her soon as this episode",
+					"Of Martin go off, I'm tryin' to get off"
+				],
+				"annotation":[
+					"There is almost nothing a teenage boy won’t do for sex. Despite her gang affiliations, Kendrick asks Sherane if he can come over after he finishes watching Martin—his favorite 90’s TV series, starring Martin Lawrence",
+					"Kendrick weaves wordplay to describe how he’ll get to Sherane: nut, come/cum and get off. Note Kendrick’s classic teenage game in this song—not exactly a smooth operator. This adds to prevalent themes throughout the song, such as the awkwardness of sex between young people."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Martin Lawrence",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Martin_(TV_series)"
+					}
+				],
+
+				"literary":[
+					["idiom",0],
+					["double entendre",3]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":20,
+				"type":"content",
+				"content":[
+					"I was in heat like a cactus, my tactics of bein' thirsty",
+					"Probably could hurt me, but fuck it, I got some heart",
+					"Grab my momma's keys, hopped in the car, then oh boy"
+				],
+				"annotation":[
+					"A cactus is a plant commonly found in hot, dry, climates. Cactus survive by extracting as much water as they can from any source they can find. You could say they are extremely “thirsty”, as most things are in the desert.",
+					"Kendrick’s “thirst” is for sex; he’s trying to get as much as he can, from any source, like a cactus in a desert.",
+					"The line also shares desert imagery with lines in the first verse. The desert imagery may mirror the lack of love, security, and/or self-worth felt by young Kendrick. Being thirsty he seeks it in sin, and it isn’t until toward the end of the album that he finds a true source of water."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Dying of Thirst",
+						"type":"song",
+						"link":"Samin come back here"
+					}
+				],
+
+				"literary":[
+					["simile",0],
+					["metaphor",0]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":21,
+				"type":"header",
+				"content":[
+					"Verse 3"
+				],
+				"annotation":[
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+
+				],
+
+				"literary":[
+
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":22,
+				"type":"content",
+				"content":[
+					"So now I'm down Rosecrans in a Caravan"
+				],
+				"annotation":[
+					"He’s driving in his mom’s Caravan down Rosecrans (a street in Paramount; the city east of Compton). The car on the cover of the deluxe edition is a Dodge “Caravan”.",
+					"Caravans were also groups of travelers commonly found in the desert, which once again ties into the desert imagery in the first two verses."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Caravan",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Dodge_Caravan"
+					}
+				],
+
+				"literary":[
+					["double entendre",0]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":23,
+				"type":"content",
+				"content":[
+					"Passin' Alameda, my gas meter in need of a pump",
+					"I got enough to get me through the traffic jam",
+					"At least I hope 'cause my pockets broke as a promise, man"
+				],
+				"annotation":[
+					"Alameda is a street connecting to California State Route 47 that runs through Compton. He’s using this route to get to Sherane’s crib.",
+					"He’s riding on E and he only hopes he can make it through the traffic (LA is infamous for its frequent traffic jams).",
+					"This is an example of the risks Kendrick’s young brain is willing to take for a chance at having sex.",
+					"“Broke as a promise” is a common expression. People too often break promises, and that is exactly how his pockets are looking… broke.",
+					"This foreshadows Kendrick’s own broken promise since he promised his mama he’d have the caravan back in 15 minutes."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					["simile",2],
+					["foreshadowing",2]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":24,
+				"type":"content",
+				"content":[
+					"I'm thinkin' about that sex, thinkin' about her thighs",
+					"Or maybe kissin' on her neck, or maybe what position's next"
+				],
+				"annotation":[
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+
+			{
+				"lyric_id":25,
+				"type":"content",
+				"content":[
+					"Sent a picture of her titties blowin' up my texts",
+					"I looked at 'em and almost ran my front bumper into Corvette"
+				],
+				"annotation":[
+					"Sherane sent Kendrick a picture of her breasts and he almost hit his bumper with another car while looking at it. Since he’s in a traffic jam, that’s likely why he was messing around with his phone, and why he was so close to another car."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":26,
+				"type":"content",
+				"content":[
+					"Enthused by the touch of a woman, she's a masseuse",
+					"And I'm a professional porn star when off the Goose"
+				],
+				"annotation":[
+					"Kendrick here is a young man that can’t wait to have sex. The touch of a woman brings him euphoric pleasure. Sherane might as well be a masseuse (massage professional) in his imagination, because the power of her touch makes him feel that good.",
+					"Meanwhile, Kendrick imagines himself a professional at sex when he’s drunk. (Goose being Grey Goose vodka)"
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					["metaphor",0],
+					["metaphor",1]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":27,
+				"type":"content",
+				"content":[
+					"I had a fifth in the trunk like Curtis Jackson for ransom"
+				],
+				"annotation":[
+					"Kendrick plays with words on this one. He pronounces ‘fifth’ more like “fif”, which is a nickname of rapper Curtis “50 Cent” Jackson.",
+					"He’s actually got a fifth of alcohol, probably Grey Goose vodka, in his trunk."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"50 Cent",
+						"type":"link",
+						"link":"https://genius.com/artists/50-cent"
+					}
+				],
+
+				"literary":[
+					["simile",0]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":28,
+				"type":"content",
+				"content":[
+					"I'm hopin' to get her loose like an Uncle Luke Anthem"
+				],
+				"annotation":[
+					"Uncle Luke was the former front man for the late 80’s & early 90’s rap group 2 Live Crew who put out an album As Nasty As They Wanna Be which was banned for a period of time for being called “obscene” by the US Government for its explicit sexual lyrics."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"2 Live Crew",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/2_Live_Crew"
+					}
+				],
+
+				"literary":[
+					["simile",0]
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":29,
+				"type":"content",
+				"content":[
+					"I'm two blocks away, 250 feet",
+					"And six steps from where she stay, she wavin' me 'cross the street",
+					"I pulled up, a smile on my face, and then I see",
+					"Two niggas, two black hoodies, I froze and my phone rang"
+				],
+				"annotation":[
+					"Kendrick’s anticipation builds as he nears Sherane’s house. He spots her standing outside, waiting for him.",
+					"Suddenly he sees two guys in black hoodies, possibly gang members and/or Sherane’s brothers/cousin waiting for him to arrive. This is supported by foreshadowing earlier in the song. He gets a call at that exact moment, but doesn’t answer due to the predicament he’s found himself in. We are left hanging…",
+					"The story continues next on “Poetic Justice” when Kendrick realizes Sherane is the problem because of her violent ties, and he uses the word bitch to describe her."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					["foreshadowing",3]
+				],
+				"sample":"none"
+			},
+
+			{
+				"lyric_id":30,
+				"type":"header",
+				"content":[
+					"Outro"
+				],
+				"annotation":[
+					],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":31,
+				"type":"content",
+				"content":[
+					"Please leave your message for 323-"
+				],
+				"annotation":[
+					"323 is a California telephone area code which covers, roughly, the area of central Los Angeles, including Compton."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":32,
+				"type":"content",
+				"content":[
+					"Record your message after the tone"
+				],
+				"annotation":[
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":33,
+				"type":"content",
+				"content":[
+					"Kendrick, where you at?"
+				],
+				"annotation":[
+					"One of the predominant threads throughout the entire album, is that Kendrick isn’t answering his phone of his mom’s calls. His mom needs to get to her appointment at the county building for food stamps and Kendrick’s got the van.",
+					"A subtle Boost Mobile reference: “Where you at?” was the main slogan for a while."
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"Boost Mobile",
+						"type":"link",
+						"link":"https://en.wikipedia.org/wiki/Boost_Mobile#Marketing"
+					}
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":34,
+				"type":"content",
+				"content":[
+					"Damn! I'm sittin' here waitin' on my van",
+					"You told me you was gon' be back in fifteen minutes!"
+				],
+				"annotation":[
+					"at the end of “Compton” Kendrick says to his ma that he’s taking the van, gonna be back in fifteen minutes! This line just validates that the album is a loop."
+					
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":35,
+				"type":"content",
+				"content":[
+					"I gotta go to the county buildin', man",
+					"These kids ready to eat! I’m ready to eat, shit",
+					"I gotta get them food stamps, come on now",
+					"You on you way or what?"
+				],
+				"annotation":[
+					"Here, Kendrick’s mother implores him to return so she can handle her duties for the day; namely, securing her food stamps so she can feed the family. This highlights the selfishness of Kendrick’s decision to take the van."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":36,
+				"type":"content",
+				"content":[
+					"I hope you ain’t out there messin' with them damn hood-rats out there, shit, especially that crazy-ass girl Sherane"
+				],
+				"annotation":[
+					"Like he said earlier in the song, this girl has a family history of gang-banging and she’s bad news.",
+					"Here Sherane is being refered to as a hood rat. this ties into the title of the song as master splinter (a rat) would most likely have rat offspring."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":37,
+				"type":"content",
+				"content":[
+					"Plus you got school tomorrow",
+					"You keep fuckin' around in them streets, you ain’t gon' pass to the next grade, 11th grade"
+				],
+				"annotation":[
+					"In the album’s bonus track, “Black Boy Fly,” Kendrick talks about him and his friends messing around in school, while basketball player, Arron Afflalo stayed in class studying and would eventually succeed in life"	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":38,
+				"type":"content",
+				"content":[
+					"(Is that Kendrick on the phone?)",
+					"Yo' daddy hollerin' about some damn dominoes",
+					"He want to holler at you too",
+					"Go 'head, Kenny, go! Shit",
+					"(Hello? Yeah, where my motherfuckin' dominoes at?)",
+					"Kenny! (What?) You on his voicemail! Damn fool (Oh) Shit!",
+					"(K, where my motherfuckin' dominoes at?",
+					"This the second time I ask you to bring my fuckin' dominoes!)",
+					"Kenny, give me the damn phone, shit. Don’t hang up! Damn!"
+				],
+				"annotation":[
+					"Dominoes, also known as bones, is a game where numbered tiles, called dominoes, are connected in order to accumulate points. It’s a family game that allows up to four people, and is often played at barbecues and parties. Kendrick keeps misplacing them"
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					{
+						"name":"dominoes",
+						"type":"link",
+						"link":"https://dominoes.playdrift.com/"
+					}
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":39,
+				"type":"content",
+				"content":[
+					"(Keep losin' my damn dominoes, we gon' have to go in the backyard and squab, homie)"
+				],
+				"annotation":[
+					"“Squab” is slang for “fight.” If a person is good at fighting, then he has “squabs” or “squabbles.” When males are Kendrick’s age (17), they no longer get disciplined with a belt. Fathers will have them put on boxing gloves and fight one on one like men. Fathers who use this method of discipline generally hit softer and take it easier on their sons, rather than using all their force like they would in a street fight."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":40,
+				"type":"content",
+				"content":[
+					"Just let me—Kendrick",
+					"When you get this message, man, call me back",
+					"I need to know when you gon' bring back my damn car"
+				],
+				"annotation":[
+					"Notice how calm Kendrick’s mother stays in this situation. Many other parents, especially in Compton, would have a hot temper reacting to their children taking a car.",
+					"Kendrick’s mother repeats herself, but never raises her voice. This alludes to Kendrick’s more respectable attitude."
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":41,
+				"type":"content",
+				"content":[
+					"This man fussin' about some damn dominoes",
+					"It ain’t all that serious, fuck, damn dominoes",
+					"Shit, I'ma miss my damn appointment! Fuck!",
+					"Fuck them damn dominoes, nobody wanna hear that"
+				],
+				"annotation":[
+					"His mom is just trying to show some authority prioritizing her goddamn appointment and not some fuckin dominoes"	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":42,
+				"type":"content",
+				"content":[
+					"Nobody wanna hear yo' ass!",
+					"Matter of fact, cut my motherfuckin' oldies back on"
+				],
+				"annotation":[
+					"Kendrick’s father wants his own music back on!"	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			},
+			{
+				"lyric_id":43,
+				"type":"content",
+				"content":[
+					"You killin' my motherfuckin' vibe"
+				],
+				"annotation":[
+					"Directly leads into the next track on the album, which is called “Bitch Don’t Kill My Vibe”."	
+				],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
+			}
+
+
+
+		],
+		"samples":[]
+	},
+
+	{
+		"title":"Bitch, Don't Kill My Vibe",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Backseat Freestyle",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"The Art of Peer Pressure",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Money Trees",
+		"features":
+		[
+			{
+				"name":"Jay Rock",
+				"link":""
+			}
+		],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Poetic Justice",
+		"features":
+		[
+			{
+				"name":"Drake",
+				"link":""
+			}
+		],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"good kid",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"m.A.A.d city",
+		"features":
+		[
+			{
+				"name":"MC Eiht",
+				"link":""
+			}
+		],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Swimming Pools (Drank)",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Sing About Me, I'm Dying of Thirst",
+		"features":[],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Real",
+		"features":
+		[
+			{
+				"name":"Anna Wise",
+				"link":""
+			}
+		],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	},
+	{
+		"title":"Compton",
+		"features":
+		[
+			{
+				"name":"Dr. Dre",
+				"link":""
+			}
+		],
+		"album":"gkmc",
+		"lyrics":[],
+		"samples":[]
+	}
+]
