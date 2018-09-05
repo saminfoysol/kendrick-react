@@ -16,7 +16,7 @@ document.getElementById("tpab").addEventListener("mouseover", function(){
     //document.getElementById("home").style.backgroundImage = '-webkit-linear-gradient(top, #eef2f3,#8e9eab)';
     $("#home").css('background-image', imageFile[0]).fadeIn(3000);
     $("#kendrick").fadeIn(3000).attr("src",imageFile2[0]);
-    document.getElementById("lyrics-content").innerHTML = "Every nigga is a star When I get signed, homie, I'ma act a fool my name is Uncle Sam, I'm your dog I'm mad but I ain't stressin' I remember you was conflicted, misusing your influence N-E-G-U-S Socks and skinny jeans Sometimes, I did the same	Loving you is complicated The caterpillar is a prisoner to the streets that conceived itWings begin to emerge, breaking the cycle of feeling stagnant What’s your perspective on that? Pac? Pac? Pac?! we gon' be alright and we hate po-po My rights, my wrongs; I write 'til I'm right with God The evils of Lucy was all around me The day I came home No socks and skinny jeans Obama say, 'What it do?'' He said, 'My son, temptation is one thing that I've defeated' embrace your loss. I am God I'm the biggest hypocrite of 2015 The blacker the berry, the sweeter the juice Trial, tribulation, but I know God";
+    document.getElementById("lyrics-content").innerHTML = "Every nigga is a star When I get signed, homie, I'ma act a fool my name is Uncle Sam, I'm your dog I'm mad but I ain't stressin' I remember you was conflicted, misusing your influence N-E-G-U-S Socks and skinny jeans Sometimes, I did the same	Loving you is complicated The caterpillar is a prisoner to the streets that conceived itWings begin to emerge, breaking the cycle of feeling stagnant What’s your perspective on that? Pac? Pac? Pac?! we gon' be alright and we hate po-po My rights, my wrongs; I write 'til I'm right with God The evils of Lucy was all around me The day I came home No socks and skinny jeans Obama say, 'What it do?'' He said, 'My son, temptation is one thing that I've defeated' embrace your loss. I am God I'm the biggest hypocrite of 2015 The blacker the berry, the sweeter the juice Trial, tribulation, but I know God i Love myself! Walkin around like you God's gift to Earth Make room for mistakes and depression";
 
 
     //document.getElementById("main-title").innerHTML = "ok";
@@ -24,6 +24,24 @@ document.getElementById("tpab").addEventListener("mouseover", function(){
 
 
    	
+});
+
+$("#gkmc").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#main-gkmc").offset().top + (window.innerHeight / 6)},
+        'slow');
+});
+
+$("#tpab").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#main-tpab").offset().top},
+        'slow');
+});
+
+$("#damn").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#damn-hero").offset().top},
+        'slow');
 });
 
 document.getElementById("gkmc").addEventListener("mouseover", function(){

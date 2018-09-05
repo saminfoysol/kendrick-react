@@ -1,11 +1,4 @@
 [
-	{
-		"title":"Sherane a.k.a. Master Splinter's Daughter",
-		"features":[],
-		"album":"gkmc",
-		"lyric_id":1,
-
-		"lyrics":[
 			{
 				"lyric_id":0,
 				"type":"production",
@@ -13,7 +6,7 @@
 				"annotation":["Kendrick’s album opens up with a very dark, eerie and ambient sounding track full of synths and effects that sound fit for a movie score. The sounds on the production are original with a concept that starts Kendrick’s short film."],
 				"attachment_type":"youtube",
 				"attachment":"https://www.youtube.com/watch?v=jp2JKd909E8",
-				"literary":"none",
+				"literary":[],
 				"sample":"none"
 			},
 			{
@@ -87,7 +80,7 @@
 
 				],
 
-				"literary":"none",
+				"literary":[],
 				"sample":"none"
 			},
 			{
@@ -335,7 +328,7 @@
 				],
 
 				"literary":[
-					["zoomorphism",1]
+					["metaphor",1]
 				],
 				"sample":"none"
 			},
@@ -343,7 +336,7 @@
 				"lyric_id":13,
 				"type":"header",
 				"content":[
-					"Verse 2"
+					"[Verse 2]"
 				],
 				"annotation":[
 					
@@ -542,7 +535,7 @@
 				"lyric_id":21,
 				"type":"header",
 				"content":[
-					"Verse 3"
+					"[Verse 3]"
 				],
 				"annotation":[
 					
@@ -755,7 +748,7 @@
 				"lyric_id":30,
 				"type":"header",
 				"content":[
-					"Outro"
+					"[Outro]"
 				],
 				"annotation":[
 					],
@@ -1061,119 +1054,25 @@
 					
 				],
 				"sample":"none"
+			},
+			{
+				"lyric_id":44,
+				"type":"content",
+				"content":[
+
+				],
+				"annotation":[
+					],
+				"attachment_type":"none",
+				"attachment":"none",
+				"learn_more":[
+					
+				],
+
+				"literary":[
+					
+				],
+				"sample":"none"
 			}
 
-
-
-		],
-		"samples":[]
-	},
-
-	{
-		"title":"Bitch, Don't Kill My Vibe",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Backseat Freestyle",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"The Art of Peer Pressure",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Money Trees",
-		"features":
-		[
-			{
-				"name":"Jay Rock",
-				"link":""
-			}
-		],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Poetic Justice",
-		"features":
-		[
-			{
-				"name":"Drake",
-				"link":""
-			}
-		],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"good kid",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"m.A.A.d city",
-		"features":
-		[
-			{
-				"name":"MC Eiht",
-				"link":""
-			}
-		],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Swimming Pools (Drank)",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Sing About Me, I'm Dying of Thirst",
-		"features":[],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Real",
-		"features":
-		[
-			{
-				"name":"Anna Wise",
-				"link":""
-			}
-		],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	},
-	{
-		"title":"Compton",
-		"features":
-		[
-			{
-				"name":"Dr. Dre",
-				"link":""
-			}
-		],
-		"album":"gkmc",
-		"lyrics":[],
-		"samples":[]
-	}
 ]

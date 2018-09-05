@@ -4,73 +4,21 @@ import './App.css';
 
 import myData from './gkmc.json';
 
-class App extends Component {
+class Bpp extends Component {
   constructor(props) {
     super(props);
-    this.state = { liked: "about", lyric:44 };
+    this.state = { liked: "tracklist", track:"none" };
   }
 
 
 
     render() {
 
-        const annotations = myData[1].annotation;
-        console.log(annotations[0]);
-
-        const namesList = myData.map(name => {
-            //go through the name.literary
-            const lyrics_dom = [];
-
-            if (name.type != "content" && name.type != "kendrick-content"){
-                lyrics_dom.push(<div className = "fill"></div>);
-            }
-
-            for (var i = 0; i < name.content.length; i++){
-                //logic for literary devices should be here as well as whats selected
-                if (this.state.lyric == name.lyric_id){
-                    lyrics_dom.push(<div className = "lyric-sel" onClick={() => this.setState({ lyric: name.lyric_id }) }> 
-                    <span>{name.content[i]} </span></div>);
-                }
-
-                else if(name.lyric_id == 1 || name.lyric_id == 29 || name.lyric_id == 43){
-                    lyrics_dom.push(<div className = "lyric-foreshadow" onClick={() => this.setState({ lyric: name.lyric_id }) }> 
-                    <span>{name.content[i]} </span></div>);
-                }
-
-                else if(name.lyric_id == 3 || name.lyric_id == 20 || name.lyric_id == 23 || name.lyric_id == 27 || name.lyric_id == 28){
-                    lyrics_dom.push(<div className = "lyric-simile" onClick={() => this.setState({ lyric: name.lyric_id }) }> 
-                    <span>{name.content[i]} </span></div>);
-                }
-
-                else if(name.lyric_id == 6 || name.lyric_id == 10 || name.lyric_id == 12 || name.lyric_id == 26){
-                    lyrics_dom.push(<div className = "lyric-metaphor" onClick={() => this.setState({ lyric: name.lyric_id }) }> 
-                    <span>{name.content[i]} </span></div>);
-                }
-
-                else{
-                    lyrics_dom.push(<div className = "lyric" onClick={() => this.setState({ lyric: name.lyric_id }) }> 
-                    <span>{name.content[i]} </span></div>);
-                }
-
-            }
-
-            if (name.type != "content" && name.type != "kendrick-content"){
-                lyrics_dom.push(<div className = "fill"></div>);
-            }
-
-            return lyrics_dom;    
-        })
-
-        const annList = myData[this.state.lyric].annotation.map(name => {
-            for (var i = 0; i < name.length; i++){
-                return (<div className = "annotation-box"> {name} </div>);
-            }    
-        })
-
-        
-
     if (this.state.liked == "samples"){
-
+        console.log(myData);
+        const namesList = myData.map(name => {
+            console.log(name);
+        })
     return (
         <div className="x">
         
@@ -89,25 +37,35 @@ class App extends Component {
 
     </div>
 
+
+
+
+
     </div>
     </div>
     );
     }
 
     if (this.state.liked == "sherane") {
-        
+   
         return (
-      <div className = "song-all">
+      <div>
         <div className = "back_button"> </div>
         <div className = "song-header">
             01. Sherane a.k.a Master Splinter's Daughter
         </div>
 
+        <div className = "song-nav">
+            <li> LYRICS </li>
+            <li> SYNOPSIS </li>
+        </div>
         <div className = "song-main">
-            <div className = "lyrics-section">{namesList}</div>
+            <div className = "lyrics-section">
+
+            </div>
             <div className = "lyric-breakdown">
                 <div className = "breakdown-annotations">
-                {annList}
+
                 </div>
                 <div className = "lyric-literary">
 
@@ -121,7 +79,6 @@ class App extends Component {
       
 
     );
-
     }
 
 
@@ -144,7 +101,7 @@ class App extends Component {
     </nav>
     <div className = "tracks">
     <div className = "trackside1">
-        <div className = "track_title_valid" onClick={() => this.setState({ liked: "sherane" }) }>
+        <div className = "track_title" onClick={() => this.setState({ liked: "sherane" }) }>
         <span className = "track-num">01.</span> Sherane a.k.a. Master Splinter's Daughter
         </div>
 
@@ -268,8 +225,3 @@ class App extends Component {
 }
   }
 }
-
-
-
-
-export default App;
